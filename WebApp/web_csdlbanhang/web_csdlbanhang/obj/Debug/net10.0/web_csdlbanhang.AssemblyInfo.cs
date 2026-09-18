@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web_csdlbanhang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2264d17816e2487b186327bc8b91792fccb60822")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fd99e358203cafdbd7ed56afb3c582f43fda5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("web_csdlbanhang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web_csdlbanhang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

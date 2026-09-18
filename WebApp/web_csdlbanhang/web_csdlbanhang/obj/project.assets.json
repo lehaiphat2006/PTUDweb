@@ -1166,11 +1166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
+      "projectUniqueName": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
       "projectName": "web_csdlbanhang",
-      "projectPath": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
+      "projectPath": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
       "packagesPath": "C:\\Users\\LE HAI PHAT\\.nuget\\packages\\",
-      "outputPath": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\obj\\",
+      "outputPath": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

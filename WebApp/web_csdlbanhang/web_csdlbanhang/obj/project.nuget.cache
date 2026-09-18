@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NpCAmkB70lk=",
+  "dgSpecHash": "KBdRqeZxA1E=",
   "success": true,
-  "projectFilePath": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
+  "projectFilePath": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LE HAI PHAT\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\LE HAI PHAT\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

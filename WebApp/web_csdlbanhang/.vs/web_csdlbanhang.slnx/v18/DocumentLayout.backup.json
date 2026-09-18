@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\",
+  "WorkspaceRootPath": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\ptudweb\\ptudweb\\web_csdlbanhang\\web_csdlbanhang\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\phatlehai66132735\\webapp\\web_csdlbanhang\\web_csdlbanhang\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|solutionrelative:web_csdlbanhang\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\ptudweb\\ptudweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\phatlehai66132735\\webapp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|solutionrelative:web_csdlbanhang\\web_csdlbanhang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\ptudweb\\ptudweb\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|d:\\phatlehai66132735\\webapp\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DEBE411F-3CAD-065E-3828-0C100EED27B7}|web_csdlbanhang\\web_csdlbanhang.csproj|solutionrelative:web_csdlbanhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "web_csdlbanhang\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\Data\\AppDbContext.cs",
               "RelativeToolTip": "web_csdlbanhang\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,22 +49,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "web_csdlbanhang.csproj",
-              "DocumentMoniker": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
+              "DocumentMoniker": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
               "RelativeDocumentMoniker": "web_csdlbanhang\\web_csdlbanhang.csproj",
-              "ToolTip": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
+              "ToolTip": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\web_csdlbanhang.csproj",
               "RelativeToolTip": "web_csdlbanhang\\web_csdlbanhang.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-17T13:46:19.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T13:46:19.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json",
+              "DocumentMoniker": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json",
               "RelativeDocumentMoniker": "web_csdlbanhang\\appsettings.json",
-              "ToolTip": "D:\\ptudweb\\PTUDweb\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json",
+              "ToolTip": "D:\\PhatLeHai66132735\\WebApp\\web_csdlbanhang\\web_csdlbanhang\\appsettings.json",
               "RelativeToolTip": "web_csdlbanhang\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
